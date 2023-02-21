@@ -2,12 +2,12 @@
 
 This is a template. "EZ" alludes to "Ezequiel/Ezekiel" and the word "easy", while "GTR" stands for "Git Template Repository".
 
-## Dependencies and requirements
+## Dependencies and Requirements
 
 - Git and/or Github
 - Internet access
 
-## Usage
+## Usage Instructions
 
 - On Windows
 
@@ -27,14 +27,14 @@ cd NewRepo
 git init
 ```
 
-## Roadmap and changelog
+## Roadmap and Changelog
 
-All changes made and planned in this project are and will be documented. The format is inspired by [Keep a Changelog](https://keepachangelog.com/) and [Semantic Versioning](https://semver.org/), but not limited to them. Check it out in the [Roadmap and Changelog](./RMAP_CLOG.md) file.
+All changes made and planned in this repository are and will be documented, as it started from the [ezGTR](https://github.com/ezlage/ezGTR) template, inspired by [Keep a Changelog](https://keepachangelog.com/) and [Semantic Versioning](https://semver.org/), but not limited to them. Check it out in the [Roadmap and Changelog](./RMAP_CLOG.md) file.  
 
-## Credits, sponsorship and licensing
+## Credits, Sponsorship and Licensing
 
-Developed by [Ezequiel Lage](https://github.com/ezlage), Sponsored by [Lageteck](https://lageteck.com) and Licensed under the [MIT License](./LICENSE.txt)  
-Any and all suggestions, criticisms and contributions are welcome!  
+Developed by [Ezequiel Lage](https://github.com/ezlage), Sponsored by [Lageteck](https://lageteck.com) and Licensed under the [MIT License](./LICENSE.txt).  
+All suggestions, criticisms and contributions are welcome!  
 
 ### Support this initiative!
 
