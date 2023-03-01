@@ -29,7 +29,7 @@ git init
 
 ## Roadmap and Changelog
 
-All changes made and planned in this repository are and will be documented, as it started from the [ezGTR](https://github.com/ezlage/ezGTR) template, inspired by [Keep a Changelog](https://keepachangelog.com/) and [Semantic Versioning](https://semver.org/), but not limited to them. Check it out in the [Roadmap and Changelog](./RMAP_CLOG.md) file.  
+This repository is based on the [ezGTR](https://github.com/ezlage/ezGTR) template, inspired by, but not limited to, [Keep a Changelog](https://keepachangelog.com/) and [Semantic Versioning](https://semver.org/). Therefore, all changes made and planned are and will be documented in the [Roadmap and Changelog](./RMAP_CLOG.md) file.  
 
 ## Credits, Sponsorship and Licensing
 
